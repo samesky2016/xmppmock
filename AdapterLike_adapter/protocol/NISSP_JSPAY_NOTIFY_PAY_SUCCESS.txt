@@ -1,0 +1,1 @@
+﻿{"attributes":{},"dataItems":[{"attributes":{"BIZDATA":{"C_BIZDATA":{"orderNo":"BK52848132777251149098"}},result:"success"},"objected":"","operateType":"READ","subItems":[]}],"message":"操作成功","resultCode":0,"seqId":"-5undj6_21","serviceId":"NISSP_JSPAY_NOTIFY_PAY_SUCCESS"}

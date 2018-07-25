@@ -1,0 +1,1 @@
+﻿{"attributes":{},"dataItems":{"attributes":{"BIZDATA":{},"result":"0","resultdescription":"开门成功"},	"objected":"","operateType":"READ","subItems":[]}],"message":"操作成功","resultCode":0,"seqId":"-r27abz_11","serviceId":"NISSP_JSPAY_OPERATE_EQUIP","source":"6018b655@jht07/6018b655"}}
